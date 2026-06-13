@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+slowapi
+pydantic
+pydantic-settings
+requests
+transformers
+sentence-transformers
+faiss-cpu
+numpy
+scikit-learn
+rank-bm25
