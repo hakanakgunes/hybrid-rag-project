@@ -1,4 +1,4 @@
-# Async FastAPI RAG Backend
+# Async FastAPI Hybrid RAG Backend
 
 Custom Retrieval-Augmented Generation backend built with FastAPI. The project demonstrates a lightweight RAG pipeline with hybrid retrieval, reranking, streaming generation, and local evaluation utilities.
 
